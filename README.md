@@ -50,6 +50,10 @@
 </p>
 
 <br><br>
+<p align="center">
+  <a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+</p>
 
 
