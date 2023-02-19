@@ -1,8 +1,7 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=2EC4F7&center=true&vCenter=true&width=501&lines=I'am+Meri%C3%A7;I'am+Jr+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 <br><br>
-<br><br>
-<br><br>
+
 
 - 🔭 I’m currently working on **UrunKatalogProjesi**
 
