@@ -14,7 +14,7 @@
 
 <br><br>
 <!-- Pinned Repositories -->
-#### Pinned
+
 
 <p align="center">
 <a href="https://github.com/snmeric/Github-Clone">
