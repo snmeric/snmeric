@@ -8,10 +8,9 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Flutter, React**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/snmeric)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+<hr></hr>
 
 
-
-<br><br>
 <!-- Pinned Repositories -->
 
 
@@ -36,23 +35,13 @@
 </p>
 
 <br><br>
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/snmeric/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmeric&theme=tokyonight" alt="snmeric" />
-<br/>
-
-![](https://komarev.com/ghpvc/?username=snmeric&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=snmeric.snmeric)
-<img src="https://img.shields.io/github/forks/snmeric/snmeric?style=social"></img>
-
-<br><br>
+<hr></hr>
 
 <div align="center" >
 <hr></hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+
 
 </div>
 
