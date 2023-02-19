@@ -21,6 +21,7 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/snmeric"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snmeric" /></a></p><br><br>
 
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
