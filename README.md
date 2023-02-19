@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **meric84512@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 <br><br>
 
@@ -50,10 +52,6 @@
 </p>
 
 <br><br>
-<span align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  
-</span>
+
 
 
