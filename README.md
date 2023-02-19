@@ -1,4 +1,4 @@
-<h1 align="center"><a align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=I'am+Meri%C3%A7;I'am+Jr+Full+Stack+Developer" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&width=435&lines=I'am+Meri%C3%A7;I'am+Jr+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <h3 align="center">Junior Full Stack Developer from Turkey</h3>
 
