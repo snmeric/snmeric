@@ -37,6 +37,16 @@
 </p>
 
 <br><br>
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/snmeric/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmeric&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=snmeric&theme=tokyonight" alt="snmeric" />
+<br/>
+
+![](https://komarev.com/ghpvc/?username=snmeric&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=snmeric.snmeric)
+<img src="https://img.shields.io/github/forks/snmeric/snmeric?style=social"></img>
+
 <br><br>
 
 
