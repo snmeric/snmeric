@@ -14,25 +14,7 @@
 <!-- Pinned Repositories -->
 
 
-<p align="center">
-<a href="https://github.com/snmeric/Github-Clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=snmeric&repo=Github-Clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/snmeric/DePay_V2">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=snmeric&repo=DePay_V2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
-<p align="center">
-<a href="https://github.com/snmeric/Chatgpt-for-mobile">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=snmeric&repo=Chatgpt-for-mobile&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/snmeric/FilmeBak">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=snmeric&repo=FilmeBak&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 <br><br>
 <hr></hr>
